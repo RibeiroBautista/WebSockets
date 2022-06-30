@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Ribeiro Bautista(CAMADA-31000).md</title><style></style></head><body id="preview">
+<!DOCTYPE html><html><head><meta charset="utf-8"></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="Ribeiro_BautistaCAMADA31000_0"></a>Ribeiro Bautista(CAMADA-31000)</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=3><a id="Trabajo_de_WebSockets_2"></a>Trabajo de WebSockets</h2>
 <hr>
