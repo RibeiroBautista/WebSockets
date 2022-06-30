@@ -1,0 +1,2 @@
+{[ -----------------------------------Guardería de productos enviados por los usuarios------------------------------------- }]
+Name: Martini, Price: 1500, Thumbnail: https://i.pinimg.com/originals/1a/f3/ac/1af3acd97ddf0a240bbdc623869eefcd.jpg
